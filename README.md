@@ -1,4 +1,4 @@
-# alexanbe.py
+# bex_python_terminal_game
 terminal game for codecademy.
 
 idea = game; in terminal; text based adventure.
